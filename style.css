@@ -1,0 +1,28 @@
+body {
+  background-image: url(/im2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: red;
+}
+
+#btn {
+  margin-top: 50px;
+  border: 1.5px solid rgb(11, 57, 57);
+  color: red;
+  background-color: aqua;
+  border-radius: 30px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#btn:hover {
+  font-size: 40px;
+
+  color: blue;
+  background-color: chocolate;
+  cursor: pointer;
+}
